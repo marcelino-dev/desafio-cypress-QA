@@ -1,4 +1,6 @@
-# 🧪 Teste Técnico – Automação Cypress
+# 🧪 Projeto Técnico  – Automação Cypress
+
+📖 Descrição
 
 Funcionalidade: Adicionar um produto ao carrinho
 
@@ -20,11 +22,11 @@ Custom Commands
 - **npm** (vem junto com o Node.js)
 - **Git Bash** (recomendado no Windows)
 
-## 🚀 Como iniciar
+## 🚀 Como executar o projeto
 
 1. **Clonar o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio-cypress.git
+   git clone https://github.com/marcelino-dev/desafio-cypress-QA.git
    cd seu-repositorio-cypress
    ```
 2. **Instalar dependências**
