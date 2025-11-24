@@ -1,0 +1,23 @@
+{
+  "name": "desafio-cypress-qa",
+  "version": "1.0.0",
+  "description": "Automação de ecommerce utilizando cypress",
+  "homepage": "https://github.com/marcelino-dev/desafio-cypress-QA#readme",
+  "bugs": {
+    "url": "https://github.com/marcelino-dev/desafio-cypress-QA/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelino-dev/desafio-cypress-QA.git"
+  },
+  "license": "ISC",
+  "author": "marcelino-dev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  }
+}
