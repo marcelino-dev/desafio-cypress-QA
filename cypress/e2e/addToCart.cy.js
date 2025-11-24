@@ -1,5 +1,5 @@
 before(() => {
-  cy.visit("http://lojaebac.ebaconline.art.br/");
+  cy.visit("/");
 });
 
 describe("Feature: Add product to cart", () => {

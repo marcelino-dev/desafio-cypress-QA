@@ -32,12 +32,17 @@ Custom Commands
    npm install
    ```
 3. **Abrir o Cypress**
+
    ```bash
    npx cypress open
    ```
-4. **Abrir o Cypress**
+
+   **e executar o teste "addToCart.cy.js"**
+
+   **Ou abrir o Cypress em modo Headless**
+
    ```bash
-   npx cypress run
+   npx cypress run --spec "cypress/e2e/addToCart.cy.js"
    ```
 
 ## ✅ Cenários Automatizados
